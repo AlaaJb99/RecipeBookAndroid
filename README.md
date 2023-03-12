@@ -31,8 +31,8 @@ View the user recipes by navigating to "My Recipes" in the navigation bar
 <span><img src="./User-Recipes.jpg" alt="user recipes section" width="200"/>
 <img src="./User-Recipe-Details.jpg" alt="user recipe details" width="200"/></span>
 
-
 # Delete Recipe
 The user can delete his own recipe by long click on it or click on the delete icon in to bar 
 in both situations a delete dialog pops-up
+
 <img src="./Delete-Dialog.jpg" alt="delete dialog" width="200"/>
